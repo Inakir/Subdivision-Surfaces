@@ -1,0 +1,9 @@
+﻿  hw6.cpp
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(122): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(123): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(124): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(168): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(287): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(287): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(271): warning C4101: 'skip': unreferenced local variable
+  OpenGLConsuleApplication1.vcxproj -> C:\Users\Inaki\Documents\tamu\Year 4-Semester 1\Computer Graphics\HW6\x64\Debug\OpenGLConsuleApplication1.exe

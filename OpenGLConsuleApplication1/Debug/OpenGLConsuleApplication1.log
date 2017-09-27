@@ -1,0 +1,22 @@
+﻿  hw6.cpp
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(67): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(69): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(95): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(100): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(101): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\classes.h(102): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(112): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(159): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(164): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(165): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(166): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\tamu\year 4-semester 1\computer graphics\hw6\openglconsuleapplication1\hw6.cpp(224): warning C4101: 'skip': unreferenced local variable
+  OpenGLConsuleApplication1.vcxproj -> C:\Users\Inaki\Documents\tamu\Year 4-Semester 1\Computer Graphics\HW6\Debug\OpenGLConsuleApplication1.exe

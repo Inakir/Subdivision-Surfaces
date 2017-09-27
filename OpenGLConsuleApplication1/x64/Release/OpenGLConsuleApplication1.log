@@ -1,0 +1,23 @@
+﻿  hw6.cpp
+hw6.cpp(68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+hw6.cpp(126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+hw6.cpp(127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+hw6.cpp(128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+hw6.cpp(129): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+hw6.cpp(148): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+hw6.cpp(196): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+hw6.cpp(197): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+hw6.cpp(244): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+hw6.cpp(246): warning C4305: 'argument': truncation from 'double' to 'float'
+hw6.cpp(256): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+hw6.cpp(258): warning C4305: 'argument': truncation from 'double' to 'float'
+hw6.cpp(282): warning C4305: '*=': truncation from 'double' to 'float'
+hw6.cpp(418): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+hw6.cpp(418): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+hw6.cpp(402): warning C4101: 'skip': unreferenced local variable
+  Generating code
+  11 of 515 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLConsuleApplication1.vcxproj -> C:\Users\Inaki\Documents\tamu\Year 4-Semester 1\Computer Graphics\HW6\x64\Release\OpenGLConsuleApplication1.exe
